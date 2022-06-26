@@ -1,0 +1,18 @@
+[submodule "OS"]
+	path = OS
+	url = https://github.com/SeekerRook/OS
+[submodule "Programming_Languages_I"]
+	path = Programming_Languages_I
+	url = https://github.com/SeekerRook/Programming_Languages_I
+[submodule "Microprocessor-Systems"]
+	path = Microprocessor-Systems
+	url = https://github.com/SeekerRook/Microprocessor-Systems
+[submodule "Algorithms_and_Complexity"]
+	path = Algorithms_and_Complexity
+	url = https://github.com/SeekerRook/Algorithms_and_Complexity
+[submodule "MediaLab-Hangman"]
+	path = MediaLab-Hangman
+	url = https://github.com/SeekerRook/MediaLab-Hangman
+[submodule "DB_UI"]
+	path = DB_UI
+	url = https://github.com/SeekerRook/DB_UI
