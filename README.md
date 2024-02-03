@@ -25,9 +25,24 @@ Course: Microprocessors Systems
 ## OS
 Excercises in C around UNIX commands, Processes, Synchronization and Virtual memory.
 
- Course: Operating Systems
+Course: Operating Systems
 
 ## Programming Languages I
 Prigramming Excercises in Various Languages ( C++, SML, ProLog, Python, Java)
 
-course: Programming Languages I
+Course: Programming Languages I
+
+## Image-Video
+Image and Video Analysis, including methods for both traditional and Machine Learning Methods (python, tensorflow, Jupyter Notebooks)
+
+Course: Image and Video Analysis and Technology
+
+## Artificial Inteligence
+
+Course: Artificial Inteligence
+
+## HCI
+
+Donaid: An android App that helps you find Voluntairy Actions in your area (Flutter)
+
+Course: Human Computer Interaction

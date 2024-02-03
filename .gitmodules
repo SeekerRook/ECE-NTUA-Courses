@@ -16,3 +16,12 @@
 [submodule "DB_UI"]
 	path = DB_UI
 	url = https://github.com/SeekerRook/DB_UI
+[submodule "Artificial_Inteligence"]
+	path = Artificial_Inteligence
+	url = https://github.com/SeekerRook/ai
+[submodule "HCI"]
+	path = HCI
+	url = https://github.com/SeekerRook/HCI
+[submodule "Image_Video"]
+	path = Image-Video
+	url = https://github.com/SeekerRook/Image-Video
